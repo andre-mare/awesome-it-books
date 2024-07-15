@@ -5,7 +5,7 @@ A curated list of must-read books for IT professionals, covering a wide range of
   - [API Management Books](#api-management-books)
   - [Domain-Driven Design Books](#domain-driven-design-books)  
   - [Microservices Books](#microservices-books)
-
+  - [Software Architecture Books](#software-architecture-books)
 
 ## API Management Books
 
@@ -14,7 +14,7 @@ A curated list of must-read books for IT professionals, covering a wide range of
 | Mastering API Architecture: Design, Operate, and Evolve API-Based Systems | James Gough, Daniel Bryant, Matthew Auburn | 2022 | 3.59 | 4.3 |
 
 
-## Domain-Driven Design
+## Domain-Driven Design Books
 
 | Title                                                                   | Author     | Year Published | Rating (Good Reads) | Rating (Amazon) |
 | ----------------------------------------------------------------------- | -----------| -------------- | ------------------- | --------------- |
@@ -28,5 +28,9 @@ A curated list of must-read books for IT professionals, covering a wide range of
 | Building Microservices: Designing Fine-Grained Systems (Second Edition) | Sam Newman | 2021           | 4.21                | 4.8             |
 
 
+## Software Architecture Books
 
+| Title                                                                   | Author     | Year Published | Rating (Good Reads) | Rating (Amazon) |
+| ----------------------------------------------------------------------- | -----------| -------------- | ------------------- | --------------- |
+| Fundamentals of Software Architecture: An Engineering Approach | Mark Richards, Neal Ford | 2020           | 4.26                | 4.6             |
 
