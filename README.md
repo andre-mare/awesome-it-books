@@ -35,8 +35,9 @@ A curated list of must-read books for IT professionals, covering a wide range of
 
 ## Software Architecture Books
 
-| Title                                                                     | Author                                     | Published | Good Reads | Amazon |
-| ------------------------------------------------------------------------- | -------------------------------------------| --------- | ---------- | ------ |
-| The Software Architect Elevator: Redefining the Architect’s Role in the Digital Enterprise | Gregor Hohpe             | 2020           | 4.41                | 4.7             |
-| Fundamentals of Software Architecture: An Engineering Approach                             | Mark Richards, Neal Ford | 2020           | 4.26                | 4.6             |
+| Title                                                                     | Author                                            | Published | Good Reads | Amazon |
+| ------------------------------------------------------------------------- | --------------------------------------------------| --------- | ---------- | ------ |
+| The Software Architect Elevator: Redefining the Architect’s Role in the Digital Enterprise | Gregor Hohpe                     | 2020           | 4.41  | 4.7    |
+| Fundamentals of Software Architecture: An Engineering Approach                             | Mark Richards, Neal Ford         | 2020           | 4.26  | 4.6    |
+| Software Architecture: The Hard Parts                                                      | Neal Ford, Mark Richards, et al. | 2021           | 4.25  | |4.5   |
 
