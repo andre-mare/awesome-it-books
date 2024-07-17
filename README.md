@@ -7,6 +7,20 @@ A curated list of must-read books for IT professionals, covering a wide range of
   - [Microservices Books](#microservices-books)
   - [Software Architecture Books](#software-architecture-books)
 
+
+## Agile, Lean & Scrum
+
+| Title                                                                     | Author                                     | Published | Good Reads | Amazon |
+| ------------------------------------------------------------------------- | -------------------------------------------| --------- | ---------- | ------ |
+| Clean Agile: Back to Basics | Robert C. Martin | 2019      | 4.27 |   |
+| Agile Software Development: Principles, Patterns, and Practices | Robert C. Martin | 2002 | 4.25 |  |
+| Agile Software Development | Alistair Cockburn | 2001 | 3.97 |  |
+| The Art of Agile Development | James Shore, Shane Warden | 2007 | 3.96 |  |
+| Planning Extreme Programming | Kent Beck, Martin Fowler | 2000 | 3.91 |  |
+| Scaling Software Agility: Best Practices for Large Enterprises | Dean Leffingwell | 2007 | 3.64 |  |
+| Balancing Agility and Discipline: A Guide for the Perplexed | Barry Boehm, Richard Turner | 2003 | 3.57 |  |
+
+
 ## API Management Books
 
 | Title                                                                     | Author                                     | Published | Good Reads | Amazon |
@@ -29,8 +43,8 @@ A curated list of must-read books for IT professionals, covering a wide range of
 
 | Title                                                                     | Author                                     | Published | Good Reads | Amazon |
 | ------------------------------------------------------------------------- | -------------------------------------------| --------- | ---------- | ------ |
-| Building Microservices: Designing Fine-Grained Systems (Second Edition)      | Sam Newman     | 2021           | 4.21                | 4.8             |
-| Building Event-Driven Microservices: Leveraging Organizational Data at Scale | Adam Bellemare | 2020           | 3.67                | 4.4             |
+| Building Microservices: Designing Fine-Grained Systems (Second Edition)      | Sam Newman     | 2021 | 4.21 | 4.8 |
+| Building Event-Driven Microservices: Leveraging Organizational Data at Scale | Adam Bellemare | 2020 | 3.67 | 4.4 |
 
 
 ## Software Architecture Books
