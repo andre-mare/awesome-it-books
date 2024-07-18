@@ -79,9 +79,9 @@ API design, and more.
 | Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture    | Christian Ciceri, Dave Farley, et al. | 2022      | 3.38       | 4.2    |
 
 ## Software Design & Design Patterns
-| Title                                                                                      | Author                                | Published | Good Reads           | Amazon |
-|--------------------------------------------------------------------------------------------|---------------------------------------|-----------|----------------------|--------|
-| Software Design: Creating Solutions for Ill-Structured Problems                            | David Budgen                          | 2020      | [4.0][SDDP-SD-GR]    | 5.0    |
+| Title                                                                                      | Author                                | Published | Good Reads        | Amazon |
+|--------------------------------------------------------------------------------------------|---------------------------------------|-----------|-------------------|--------|
+| Software Design: Creating Solutions for Ill-Structured Problems                            | David Budgen                          | 2020      | [4.0][SDDP-SD-GR] | 5.0    |
 
 ## Web Development Books
 | Title                                                                                   | Author         | Published | Good Reads | Amazon |
@@ -89,4 +89,4 @@ API design, and more.
 | Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers             | Luca Mezzalira | 2021      | 4.21       | 4.4    |
 
 
-[SDDP-SD-GR](https://www.goodreads.com/book/show/58082943-software-design)
+[SDDP-SD-GR]:https://www.goodreads.com/book/show/58082943-software-design
