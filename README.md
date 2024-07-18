@@ -2,13 +2,14 @@
 A curated list of must-read books for IT professionals, covering a wide range of topics including software architecture, programming, web development, cloud computing, data science, machine learning, cybersecurity, DevOps, microservices, API design, and more.
 
 ## Table of Contents
+  - [Agile, Lean & Scrum Books](#agile-lean--scrum-books)
   - [API Management Books](#api-management-books)
   - [Domain-Driven Design Books](#domain-driven-design-books)  
   - [Microservices Books](#microservices-books)
   - [Software Architecture Books](#software-architecture-books)
 
 
-## Agile, Lean & Scrum
+## Agile, Lean & Scrum Books
 
 | Title                                                                     | Author                                     | Published | Good Reads | Amazon |
 | ------------------------------------------------------------------------- | -------------------------------------------| --------- | ---------- | ------ |
@@ -49,9 +50,10 @@ A curated list of must-read books for IT professionals, covering a wide range of
 
 ## Software Architecture Books
 
-| Title                                                                     | Author                                            | Published | Good Reads | Amazon |
-| ------------------------------------------------------------------------- | --------------------------------------------------| --------- | ---------- | ------ |
-| The Software Architect Elevator: Redefining the Architect’s Role in the Digital Enterprise | Gregor Hohpe                     | 2020           | 4.41  | 4.7    |
-| Fundamentals of Software Architecture: An Engineering Approach                             | Mark Richards, Neal Ford         | 2020           | 4.26  | 4.6    |
-| Software Architecture: The Hard Parts                                                      | Neal Ford, Mark Richards, et al. | 2021           | 4.25  | |4.5   |
-
+| Title                                                                                      | Author                            | Published | Good Reads | Amazon |
+|--------------------------------------------------------------------------------------------|-----------------------------------|-----------|------------|--------|
+| The Software Architect Elevator: Redefining the Architect’s Role in the Digital Enterprise | Gregor Hohpe                      | 2020      | 4.41       | 4.7    |
+| Fundamentals of Software Architecture: An Engineering Approach                             | Mark Richards, Neal Ford          | 2020      | 4.26       | 4.6    |
+| Software Architecture: The Hard Parts                                                      | Neal Ford, Mark Richards, et al.  | 2021      | 4.25       | 4.5    |
+| Building Evolutionary Architectures: Automated Software Governance                         | Neal Ford, Rebecca Parsons, et al | 2022      | 3.76       | 4.3    |
+| Foundations of Scalable Systems: Designing Distributed Architectures                       | Ian Gorton                        | 2022      | 4.20       | 4.6    |
