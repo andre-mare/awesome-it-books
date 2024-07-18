@@ -1,12 +1,16 @@
 # Awesome IT Books [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of must-read books for IT professionals, covering a wide range of topics including software architecture, programming, web development, cloud computing, data science, machine learning, cybersecurity, DevOps, microservices, API design, and more.
+A curated list of must-read books for IT professionals, covering a wide range of topics including software architecture, 
+programming, web development, cloud computing, data science, machine learning, cybersecurity, DevOps, microservices, 
+API design, and more.
 
 ## Table of Contents
   - [Agile, Lean & Scrum Books](#agile-lean--scrum-books)
   - [API Management Books](#api-management-books)
   - [Domain-Driven Design Books](#domain-driven-design-books)  
+  - [Event-Driven Architecture Books](#event-driven-architecture-books)
   - [Microservices Books](#microservices-books)
   - [Software Architecture Books](#software-architecture-books)
+  - [Web Development Books](#web-development-books)
 
 
 ## Agile, Lean & Scrum Books
@@ -24,10 +28,16 @@ A curated list of must-read books for IT professionals, covering a wide range of
 
 ## API Management Books
 
-| Title                                                                     | Author                                     | Published | Good Reads | Amazon |
-| ------------------------------------------------------------------------- | -------------------------------------------| --------- | ---------- | ------ |
-| Mastering API Architecture: Design, Operate, and Evolve API-Based Systems | James Gough, Daniel Bryant, Matthew Auburn | 2022      | 3.59       | 4.3    |
+| Title                                                                                  | Author                                     | Published | Good Reads | Amazon |
+|----------------------------------------------------------------------------------------|--------------------------------------------|-----------|------------|--------|
+| Mastering API Architecture: Design, Operate, and Evolve API-Based Systems              | James Gough, Daniel Bryant, Matthew Auburn | 2022      | 3.59       | 4.3    |
+| Continuous API Management: Making the Right Decisions in an Evolving Landscape         | Mehdi Medjaoui, Erik Wilde, et al.         | 2021      |            | 4.0    |
 
+
+## Data Engineering Books
+| Title                                                                                                    | Author            | Published | Good Reads | Amazon |
+|----------------------------------------------------------------------------------------------------------|-------------------|-----------|------------|--------|
+| Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems | Martin Kleppmann  | 2017      | 4.71       | 4.8    |
 
 ## Domain-Driven Design Books
 
@@ -51,8 +61,10 @@ A curated list of must-read books for IT professionals, covering a wide range of
 | Title                                                                                        | Author               | Published | Good Reads | Amazon |
 |----------------------------------------------------------------------------------------------|----------------------|-----------|------------|--------|
 | Building Microservices: Designing Fine-Grained Systems (Second Edition)                      | Sam Newman           | 2021      | 4.21       | 4.8    |
+| Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith                  | Sam Newman           | 2019      | 4.29       | 4.6    |
 | Building Event-Driven Microservices: Leveraging Organizational Data at Scale                 | Adam Bellemare       | 2020      | 3.67       | 4.4    |
 | Microservices: Up and Running: A Step-by-Step Guide to Building a Microservices Architecture | Ronnie Mitra, et al. | 2020      | 3.94       | 4.6    |
+    
 
 ## Software Architecture Books
 
