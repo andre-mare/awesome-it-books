@@ -6,6 +6,7 @@ API design, and more.
 ## Table of Contents
   - [Agile, Lean & Scrum Books](#agile-lean--scrum-books)
   - [API Management Books](#api-management-books)
+  - [Data Engineering Books](#data-engineering-books)
   - [Domain-Driven Design Books](#domain-driven-design-books)  
   - [Event-Driven Architecture Books](#event-driven-architecture-books)
   - [Microservices Books](#microservices-books)
@@ -77,7 +78,15 @@ API design, and more.
 | Foundations of Scalable Systems: Designing Distributed Architectures                       | Ian Gorton                            | 2022      | 4.20       | 4.6    |
 | Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture    | Christian Ciceri, Dave Farley, et al. | 2022      | 3.38       | 4.2    |
 
+## Software Design & Design Patterns
+| Title                                                                                      | Author                                | Published | Good Reads           | Amazon |
+|--------------------------------------------------------------------------------------------|---------------------------------------|-----------|----------------------|--------|
+| Software Design: Creating Solutions for Ill-Structured Problems                            | David Budgen                          | 2020      | [4.0][SDDP-SD-GR]    | 5.0    |
+
 ## Web Development Books
 | Title                                                                                   | Author         | Published | Good Reads | Amazon |
 |-----------------------------------------------------------------------------------------|----------------|-----------|------------|--------|
 | Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers             | Luca Mezzalira | 2021      | 4.21       | 4.4    |
+
+
+[SDDP-SD-GR](https://www.goodreads.com/book/show/58082943-software-design)
